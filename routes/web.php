@@ -1,9 +1,7 @@
 <?php
 
 use App\Http\Controllers\HistoryController;
-use App\Http\Controllers\LocationController;
 use App\Http\Controllers\WeatherController;
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
