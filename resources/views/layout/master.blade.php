@@ -11,7 +11,7 @@
 </head>
 <body>
 {{--<div class="loader"></div>--}}
-<nav class="px-lg-5 py-3 navbar navbar-light text-white bg-primary mb-3">
+<nav class="px-lg-5 py-3 navbar navbar-light text-white bg-primary mb-4">
     <div>
         <a class="navbar-brand text-white">Weather Dashboard</a>
         <a class="text-white nav-link d-inline px-3" href="/">Home</a>
