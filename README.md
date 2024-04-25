@@ -50,7 +50,7 @@ php artisan serve
 
 Truy cập [http://localhost:8000](http://localhost:8000) trong trình duyệt web của bạn để xem ứng dụng.
 
-Hoặc truy cập [https://g-weather-forecast-dbc5855b522f.herokuapp.com](Weather Dashboard) để vào ứng dụng đã được deploy của tôi.
+Hoặc truy cập [Weather Dashboard](https://g-weather-forecast-dbc5855b522f.herokuapp.com) để vào ứng dụng đã được deploy của tôi.
 
 ## Thông tin thêm
 
