@@ -50,6 +50,10 @@ php artisan serve
 
 Truy cập [http://localhost:8000](http://localhost:8000) trong trình duyệt web của bạn để xem ứng dụng.
 
+Hoặc truy cập [https://g-weather-forecast-dbc5855b522f.herokuapp.com/](Weather Dashboard) để vào ứng dụng đã được deploy của tôi.
+
 ## Thông tin thêm
 
 Để biết thêm thông tin về cách sử dụng và tùy chỉnh ứng dụng Laravel, bạn có thể tham khảo tài liệu chính thức của Laravel tại [https://laravel.com/docs](https://laravel.com/docs).
+
+
